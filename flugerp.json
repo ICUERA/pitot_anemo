@@ -1,0 +1,7 @@
+{
+  "sleep_minutes": 5,
+  "heater": {
+    "enabled": false,
+    "duration_s": 60
+  }
+}
